@@ -1,6 +1,3 @@
-//Oświadczam, że niniejsza praca stanowiąca podstawę do uznania osiągnięcia efektówuczenia się z przedmiotu SOP2
-//została wykonana przeze mnie samodzielnie. Wojciech Klusek 305943
-
 #define _GNU_SOURCE 
 #include <stdio.h>
 #include <stdlib.h>
